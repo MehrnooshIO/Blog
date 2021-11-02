@@ -2,3 +2,5 @@ fastapi
 uvicorn
 sse-starlette
 sqlalchemy
+requests
+pytest
